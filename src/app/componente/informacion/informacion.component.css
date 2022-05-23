@@ -1,0 +1,23 @@
+.contenedor-dos{
+    width:25em;
+    background-color: #fc6d6f;
+    
+}
+h5{ 
+    font-size:25px;
+    background-color:#e7e8d1;
+
+}
+
+h6{ 
+    font-size:20px;
+}
+
+p{ 
+    font: size 18px;
+}
+
+.per{
+    display:flex;
+    justify-content:center;
+}
